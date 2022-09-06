@@ -23,5 +23,6 @@ Front-end developer student at
 
 :cat: Pet mum of 2 cats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahhm&bg_color=30,76B4C5,12353F&title_color=fff&text_color=fff)](https://github.com/Deborahhm/Deborahhm)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deborahhm&bg_color=30,76B4C5,12353F&title_color=fff&text_color=fff)
+
+| <a href="ttps://github.com/Deborahhm/Deborahhm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahhm&bg_color=30,76B4C5,12353F&title_color=fff&text_color=fff" alt="Deborahhm's github stats" /></a> | <a href="https://github.com/Deborahhm/Deborahhm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deborahhm&bg_color=30,76B4C5,12353F&title_color=fff&text_color=fff" /></a> |
+| ------------- | ------------- |
