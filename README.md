@@ -1,8 +1,15 @@
 
+<img src="https://c.tenor.com/Wv6zVQPZFtcAAAAC/error.gif" alt="cat mad at the computer" align="right">
 
-![CatInComputer](https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif)
+
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deborahhm)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-nascimento-927249191/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevBinha)
+
+
+
 # Hi! I'm Deborah.
-I am from Natal-Rn currently living in Fortaleza-CE.
+I am from Natal-RN currently living in Fortaleza-CE.
 I love technology, design, and illustrations.
 I am a Full Stack developer student and I love CSS :heartpulse: 
 
@@ -16,10 +23,5 @@ Front-end developer student at
 
 :cat: Pet mum of 2 cats
 
-## Skills 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Find me! 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deborahhm)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-nascimento-927249191/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevBinha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahhm&bg_color=30,76B4C5,12353F&title_color=fff&text_color=fff)](https://github.com/Deborahhm/Deborahhm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deborahhm&bg_color=30,76B4C5,12353F&title_color=fff&text_color=fff)
