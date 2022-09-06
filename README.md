@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/Wv6zVQPZFtcAAAAC/error.gif" alt="cat mad at the computer" align="right">
+<img src="https://c.tenor.com/xHzPisqF9ToAAAAC/cat.gif" alt="cat mad at the computer" align="right">
 
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deborahhm)
