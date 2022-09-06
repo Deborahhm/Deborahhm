@@ -6,9 +6,9 @@ I am from Natal-Rn currently living in Fortaleza-CE.
 I love technology, design, and illustrations.
 I am a Full Stack developer student and I love CSS :heartpulse: 
 
-🎓 Bachelor of science and technology at UFRN 
+:mortar_board: Bachelor of science and technology at UFRN 
 
-🎓 I studied mechatronic engineering at UFRN 
+:mortar_board: I studied mechatronic engineering at UFRN 
 
 :computer: currently a Full Stack developer student at Digital College and 
 Front-end developer student at
