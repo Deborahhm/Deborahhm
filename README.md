@@ -12,7 +12,7 @@ I am a Full Stack developer student and I love CSS :heartpulse:
 
 :computer: currently a Full Stack developer student at Digital College and 
 Front-end developer student at
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green).
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)(https://www.freecodecamp.org/fccf46a8b72-445a-4117-a5da-f124483a9ffd)].
 
 :cat: Pet mum of 2 cats
 
